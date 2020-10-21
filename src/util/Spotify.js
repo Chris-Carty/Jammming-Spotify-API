@@ -1,6 +1,6 @@
 // IMPLICIT GRANT FLOW 
 let clientId = '3fcd41de19ad420480747aa8a182bfc6';
-let redirectUri= 'https://jammming-playlist-creator.netlify.app/';
+let redirectUri= 'https://jammming-playlist-creator.netlify.app';
 let accessToken;
 
 const Spotify = {
